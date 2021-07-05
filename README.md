@@ -1,4 +1,4 @@
-#Testing rules 
+# Testing rules 
 - a general set of rules that can be applied to any testing framework. See the 'WHY?' below for the need for this and reasoning.
 
 ### <b>File, folder, and test naming conventions and layout</b> 
